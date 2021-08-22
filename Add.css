@@ -1,0 +1,93 @@
+.whole{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  #add   #login-box {
+    margin-top: 120px;
+  
+    height: 320px;
+   
+    background-color: #EAEAEA;
+  }
+  #add  #login-box {
+    padding: 20px;
+  }
+  #add #login-box  #register-link {
+    margin-top: -85px;
+  }
+  .submit-btn
+  {
+   background-color: var(--logo-color);
+   color:#FFF;
+  }
+  .text-color{
+    color:var(--logo-color);
+  }
+  .Pic{
+    position:absolute;
+    top: 70px;
+    right: 0px;
+    left:22px;
+    width: 200px;
+    height: 150px;
+    background-color: #fff;
+  }
+  .Pic:hover{
+      background-color:rgba(0,0,0,0.125);
+      color:#fff;
+  }
+  .mini .fas {
+      position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:150px;
+    width:190px;
+    color: rgba(0,0,0,0.3)
+  }
+  .fas:hover{
+      color:#FFF;
+  }
+  
+  .form-group{
+    width: 45%;
+  
+
+  }
+  .number1{
+    position:absolute;
+    top: 70px;
+    right: 22px;
+    width: 200px;
+    height: 100px;
+  }
+ 
+  .number3{
+    position:absolute;
+    top: 230px;
+    right: 22px;
+    width: 200px;
+    height: 100px;  
+  }
+  .number2{
+    position:absolute;
+    top: 160px;
+    right: -83px;
+    height: 50px;
+    border-style: none;
+    color: var(--logo-color);
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  
+  .submission:hover{
+     background-color: #FFF;
+     border-color: rgba(0,0,0,0.2);
+     color:var(--logo-color);
+
+  }
+ 
+  .optionLevel{
+    color: rgba(0,0,0,0.3);
+}
